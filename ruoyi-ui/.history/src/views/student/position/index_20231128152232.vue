@@ -244,7 +244,7 @@
   </div>
 </template>
 
-<script>
+<script>S
 import {
   listPosition,
   getPosition,
